@@ -22,3 +22,12 @@
 hs_err_pid*
 
 .DS_Store
+
+.settings/
+.metadata
+bin/
+tmp/
+.classpath
+*target/
+
+
