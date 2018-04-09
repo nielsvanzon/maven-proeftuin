@@ -30,4 +30,7 @@ tmp/
 .classpath
 *target/
 
+# Eclipse Core
+.project
+
 
